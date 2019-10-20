@@ -7,12 +7,12 @@
 ## Deskripsi
 Symbolab KW 1.0 merupakan aplikasi yang berguna untuk membantu dalam menyelesaikan permasalahan persamaan matematika dasar maupun lanjutan. Tujuan utama aplikasi ini adalah untuk mempermudah pengerjaan tugas matematika dalam dunia perkuliahan. Sampai saat ini, program mendukung penghitungan turunan, integral, dan operasi matriks dasar.
 	
-## Installation
-Untuk mencoba aplikasi ini, bisa melalui dua cara:
+## Instalasi
+Untuk menggunakan aplikasi ini, bisa melalui dua cara:
 1. Mengunduh file [Symbolab KW 1.0.exe](/Symbolab KW 1.0.exe). Pastikan sistem operasi yang digunakan adalah Windows.
-2. Membuka source code menggunakan compiler C. Jika belum terinstall pada komputer, bisa [diunduh disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-compile aplikasi dari source code.
+2. Membuka source code menggunakan compiler C. Jika belum terinstall pada komputer, bisa [diunduh disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-compile aplikasi dari source code yang ada.
 
-## Usage
+## Penggunaan
 ### Menu
 ![Splash Screen](/pictures/1.PNG)
 ![Menu](/pictures/2.PNG)
