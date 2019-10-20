@@ -3,7 +3,7 @@
 * [Deskripsi](#deskripsi)
 * [Instalasi](#instalasi)
 * [Penggunaan](#pengunaan)
-* [Pembuat Aplikasi](#pembuat aplikasi)
+* [Pembuat Aplikasi](#pembuat-aplikasi)
 
 ## Deskripsi
 Symbolab KW 1.0 merupakan aplikasi yang berguna untuk membantu dalam menyelesaikan permasalahan persamaan matematika dasar maupun lanjutan. Tujuan utama aplikasi ini adalah untuk mempermudah pengerjaan tugas matematika dalam dunia perkuliahan. Sampai saat ini, program mendukung penghitungan turunan, integral, dan operasi matriks dasar.
