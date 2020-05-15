@@ -10,7 +10,7 @@ Symbolab KW v1.0 merupakan aplikasi yang berguna untuk membantu dalam menyelesai
 	
 ## Instalasi
 Untuk menggunakan aplikasi ini, bisa melalui dua cara:
-1. Mengunduh [aplikasi disini](/Symbolab-KW-v1.0.exe). Pastikan sistem operasi yang digunakan adalah Windows.
+1. Mengunduh aplikasi [disini](/Symbolab-KW-v1.0.exe). Pastikan sistem operasi yang digunakan adalah Windows.
 2. Membuka _source code_ menggunakan _compiler_ C. Jika belum terinstal pada komputer, bisa diunduh [disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-_compile_ aplikasi dari _source code_ yang ada.
 
 ## Penggunaan
