@@ -11,14 +11,14 @@ Symbolab KW v1.0 merupakan aplikasi yang berguna untuk membantu dalam menyelesai
 ## Instalasi
 Untuk menggunakan aplikasi ini, bisa melalui dua cara:
 1. Mengunduh [aplikasi disini](/Symbolab-KW-v1.0.exe). Pastikan sistem operasi yang digunakan adalah Windows.
-2. Membuka source code menggunakan compiler C. Jika belum terinstall pada komputer, bisa [diunduh disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-compile aplikasi dari source code yang ada.
+2. Membuka _source code_ menggunakan _compiler_ C. Jika belum terinstal pada komputer, bisa diunduh [disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download). Dan dilanjutkan dengan meng-_compile_ aplikasi dari _source code_ yang ada.
 
 ## Penggunaan
 ### Menu
-![Splash Screen](/pictures/1.PNG)
+![_Splash Screen_](/pictures/1.PNG)
 ![Menu](/pictures/2.PNG)
 
-Setelah melewati splash screen, aplikasi akan masuk ke tampilan menu. Pilih menu yang diinginkan untuk memulai penghitungan.
+Setelah melewati _splash screen_, aplikasi akan masuk ke tampilan menu. Pilih opsi yang diinginkan untuk memulai penghitungan.
 ### Turunan
 ![Turunan](/pictures/3.PNG)
 
